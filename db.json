@@ -1,0 +1,11 @@
+{
+  "group": [
+    { "id": 1, "title": "Post 1" }
+  ],
+  "chat": [
+    { "id": 1, "group_id": 1, "username": "user_1", "message" :"message user_1", "time" : "20-10-2020" }
+  ],
+  "user": {
+    "name": "typicode"
+  }
+}
